@@ -1,4 +1,5 @@
 require "spec_helper"
+# require_relative 'song.rb'
 
 describe "Song" do
   let!(:song) { Song.new } 
